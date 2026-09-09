@@ -1,16 +1,16 @@
-# AITEE Community Health Center – Cybersecurity Assessment
+ AITEE Community Health Center – Cybersecurity Assessment
 
-## Project Title & Objective
+ Project Title & Objective
 To assess the cybersecurity posture of AITEE Community Health Center, identify vulnerabilities and threats, prioritize critical security risks, and recommend effective security controls to protect patient data and healthcare operations.
 
-## Key Audit Findings
+ Key Audit Findings
 The assessment identified these **3 core security weaknesses**:
 
-- **Weak/Reused Passwords** – Increases the risk of unauthorized account access.
-- **Poor Wi-Fi Security** – Could allow unauthorized users to access the organization’s network.
-- **Lack of Employee Security Awareness** – Increases the likelihood of successful phishing and social engineering attacks.
+- Weak/Reused Passwords** – Increases the risk of unauthorized account access.
+- Poor Wi-Fi Security** – Could allow unauthorized users to access the organization’s network.
+- Lack of Employee Security Awareness** – Increases the likelihood of successful phishing and social engineering attacks.
 
-## Top Prioritized Risks
+ Top Prioritized Risks
 
 | Risk                      | Likelihood | Impact   | Priority   |
 |---------------------------|------------|----------|------------|
@@ -18,8 +18,8 @@ The assessment identified these **3 core security weaknesses**:
 | Patient Data Breach       | High       | Critical | Critical   |
 | Phishing                  | High       | High     | High       |
 
-## Actionable Recommendations  
-### Immediate Mitigation Roadmap
+ Actionable Recommendations  
+ Immediate Mitigation Roadmap
 
 1. Implement Multi-Factor Authentication (MFA) and strong password policies.  
 2. Conduct regular employee security awareness and phishing training. Maintain regular, secure, and tested backups.  
@@ -29,7 +29,7 @@ The assessment identified these **3 core security weaknesses**:
 6. Use endpoint protection on staff laptops and other devices.  
 7. Physically secure servers and other critical equipment.
 
-## Key Skills Demonstrated
+ Key Skills Demonstrated
 This project demonstrates practical knowledge and skills in:
 
 - Risk Management  
@@ -43,5 +43,5 @@ This project demonstrates practical knowledge and skills in:
 - Incident Prevention  
 - Cybersecurity Assessment  
 
-## Project Outcome
+ Project Outcome
 The assessment provides AITEE Community Health Center with a structured approach to identifying, prioritizing, and mitigating cybersecurity risks while protecting the **Confidentiality, Integrity, and Availability (CIA)** of critical healthcare information.
